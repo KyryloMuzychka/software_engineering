@@ -14,9 +14,6 @@ Dialog::~Dialog()
     delete ui;
 }
 
-
-
-
 struct P
 {
     float x;
